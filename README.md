@@ -13,7 +13,11 @@ Customers: Demographics such as age, gender, and location.
 
 
 Products: Types of bikes, accessories, and other related products.
+
 Stores: Locations and performance metrics.
+
 Calender: It provide detail information of sales transaction.
+
 customer:I provide detail about customers like address,area,income level,married status etc.
+
 product Data:It shows product detils like product price.product dertails.
