@@ -8,7 +8,10 @@ There is raw csv files, which contain information about transactions, returns, p
 # The dataset includes information on:
 
 Sales Transactions: Date, product details, quantity sold, and revenue.
+
 Customers: Demographics such as age, gender, and location.
+
+
 Products: Types of bikes, accessories, and other related products.
 Stores: Locations and performance metrics.
 Calender: It provide detail information of sales transaction.
