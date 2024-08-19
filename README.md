@@ -20,4 +20,23 @@ Calender: It provide detail information of sales transaction.
 
 customer:I provide detail about customers like address,area,income level,married status etc.
 
-product Data:It shows product detils like product price.product dertails.
+product Data:It shows product detils like product price.product details.
+
+# finding KPIs and measure for Reporting
+% of orders 
+% of returns
+90 day rolling revenue
+Average Revenue Per Customer
+Previous Month Return
+Quantity Returned
+Return Rate
+Total Cost
+Revenue Target
+Total Customer 
+
+# Business Insights
+
+Our analysis Yields valuable business insights:
+
+revenue tranding over time:Define the revenue ove time period.KPIs: it shows total revenue,profit,orders,revenue rate. Cards: It shows most sale product.
+Map: Map Section shows total sales by region using bubble points.product Detail: Product Detail page shows total orders,revenue and profit of diffrent orders.it shows order different 
